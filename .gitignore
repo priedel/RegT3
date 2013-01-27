@@ -1,0 +1,8 @@
+/MikroelSys1.pdf
+*.synctex*
+/tmp
+*.out
+*.log
+*.aux
+*.toc
+*.tex.preview.*
